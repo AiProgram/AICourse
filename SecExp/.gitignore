@@ -1,8 +1,6 @@
 *.xlsx
 *.xls
 *.docx
-*.doc
-*.pdf
 *.zip
 .vscode/
 .idea/
