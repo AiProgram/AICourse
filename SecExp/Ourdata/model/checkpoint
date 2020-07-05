@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:\\Homework\\AI_Exp\\Project_5\\Ourdata/model/BP_model.ckpt"
+all_model_checkpoint_paths: "d:\\Homework\\AI_Exp\\Project_5\\Ourdata/model/BP_model.ckpt"

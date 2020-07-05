@@ -1,0 +1,71 @@
+卷 工作 的文件夹 PATH 列表
+卷序列号为 7ECD-088B
+E:.
+│  .gitignore
+│  dirtree.txt
+│  dir_tree.txt
+│  handwriting.png
+│  README.md
+│  requirements.txt
+│  
+├─.vscode
+│      launch.json
+│      settings.json
+│      
+├─handwriting_classify
+│  │  checkpoint
+│  │  CNN_model.ckpt.data-00000-of-00001
+│  │  CNN_model.ckpt.index
+│  │  CNN_model.ckpt.meta
+│  │  cnn_painter.py
+│  │  dataset.py
+│  │  dir_tree.txt
+│  │  label_data.npy
+│  │  number_data.npy
+│  │  RestoringOneCNNmodel.py
+│  │  
+│  └─__pycache__
+│          dataset.cpython-36.pyc
+│          
+├─Mnist
+│      mnist_bp.py
+│      mnist_cnn.py
+│      mnist_NaiveBayes.py
+│      mnist_svm.py
+│      
+├─MNIST_data
+│      t10k-images-idx3-ubyte.gz
+│      t10k-labels-idx1-ubyte.gz
+│      train-images-idx3-ubyte.gz
+│      train-labels-idx1-ubyte.gz
+│      
+├─Ourdata
+│  │  main.py
+│  │  mydata_NaiveBayes.py
+│  │  mydata_svm.py
+│  │  mydata_Tensor_BP.py
+│  │  mydata_Tensor_CNN.py
+│  │  
+│  ├─data
+│  │  │  collect_dataset.py
+│  │  │  label_data.npy
+│  │  │  number_data.npy
+│  │  │  ourdataset.py
+│  │  │  
+│  │  └─__pycache__
+│  │          ourdataset.cpython-36.pyc
+│  │          
+│  └─model
+│          BP_model.ckpt.data-00000-of-00001
+│          BP_model.ckpt.index
+│          BP_model.ckpt.meta
+│          checkpoint
+│          CNN_model.ckpt.data-00000-of-00001
+│          CNN_model.ckpt.index
+│          CNN_model.ckpt.meta
+│          NaiveBayes_model.model
+│          svm_model.model
+│          
+└─__pycache__
+        dataset.cpython-36.pyc
+        
